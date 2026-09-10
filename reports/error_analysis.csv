@@ -1,0 +1,8 @@
+image_id,expert_grade,predicted_grade,confidence,error_type,possible_reason,recommended_action
+TOM_B_116,B,A,0.99,BASELINE_RULE_MISMATCH_B_to_A,Baseline rigid linear scoring diverged from expert label (true B vs baseline A).,Use ML model with human oversight.
+TOM_B_119,B,A,1.0,BASELINE_RULE_MISMATCH_B_to_A,Baseline rigid linear scoring diverged from expert label (true B vs baseline A).,Use ML model with human oversight.
+TOM_C_103,C,B,0.726,BASELINE_RULE_MISMATCH_C_to_B,Baseline rigid linear scoring diverged from expert label (true C vs baseline B).,Use ML model with human oversight.
+TOM_C_114,C,B,0.672,BASELINE_RULE_MISMATCH_C_to_B,Baseline rigid linear scoring diverged from expert label (true C vs baseline B).,Use ML model with human oversight.
+EDGE_LIGHT_01,FLAG_REVIEW,REVIEW_REQUIRED,0.0,POOR_LIGHTING,Mean luminance fell below 30.0 lux threshold due to severe underexposure.,Reposition produce under diffuse natural daylight or activate device flash.
+EDGE_MULTI_01,FLAG_REVIEW,REVIEW_REQUIRED,0.0,MULTIPLE_OBJECTS,Multiple distinct produce contours detected on staging surface.,Instruct agricultural extension worker to place one produce item per image.
+EDGE_BLUR_01,FLAG_REVIEW,REVIEW_REQUIRED,0.0,BLURRY_IMAGE,Camera motion defocus resulting in Laplacian focus variance < 5.0.,Hold camera steady and refocus before capturing.

@@ -1,0 +1,5 @@
+timestamp,image_id,system_grade,expert_override_grade,officer_id,comments
+2026-09-10T22:45:56.026866,TOM_B_104,B,B,OFFICER_PATEL,Confirmed commercially acceptable Grade B produce.
+2026-09-10T22:49:30.443537,TOM_B_104,B,B,OFFICER_PATEL,Confirmed commercially acceptable Grade B produce.
+2026-09-10T23:04:21.047562,TOM_B_104,B,B,OFFICER_PATEL,Confirmed commercially acceptable Grade B produce.
+2026-09-10T23:12:42.328554,TOM_B_104.jpg,B,B,EXTENSION_OFFICER_01,Confirmed commercially acceptable table grade after physical firmness check.

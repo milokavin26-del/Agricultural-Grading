@@ -1,0 +1,370 @@
+image_id,expert_grade,expert_score,grader_id,notes
+TOM_A_001,A,89.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_002,A,91.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_003,A,92.6,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_004,A,93.4,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_005,A,94.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_006,A,90.4,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_007,A,92.2,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_008,A,92.3,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_009,A,91.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_010,A,93.8,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_011,A,90.2,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_012,A,91.0,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_013,A,91.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_014,A,93.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_015,A,92.9,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_016,A,92.5,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_017,A,90.4,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_018,A,92.2,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_019,A,92.0,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_020,A,90.7,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_021,A,89.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_022,A,92.7,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_023,A,92.4,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_024,A,92.0,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_025,A,91.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_026,A,94.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_027,A,92.8,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_028,A,92.4,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_029,A,91.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_030,A,95.8,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_031,A,91.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_032,A,93.0,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_033,A,94.4,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_034,A,92.2,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_035,A,90.8,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_036,A,92.0,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_037,A,94.8,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_038,A,92.5,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_039,A,93.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_040,A,91.5,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_041,A,91.6,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_042,A,91.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_043,A,91.4,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_044,A,88.6,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_045,A,94.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_046,A,93.8,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_047,A,90.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_048,A,91.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_049,A,93.1,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_050,A,90.7,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_051,A,90.7,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_052,A,96.3,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_053,A,92.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_054,A,91.9,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_055,A,88.6,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_056,A,92.5,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_057,A,93.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_058,A,94.5,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_059,A,91.3,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_060,A,92.9,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_061,A,93.7,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_062,A,90.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_063,A,90.9,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_064,A,92.3,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_065,A,92.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_066,A,89.6,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_067,A,94.2,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_068,A,94.4,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_069,A,92.7,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_070,A,91.3,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_071,A,92.5,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_072,A,93.6,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_073,A,93.5,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_074,A,91.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_075,A,91.0,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_076,A,90.5,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_077,A,94.2,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_078,A,89.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_079,A,91.3,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_080,A,93.8,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_081,A,96.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_082,A,91.5,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_083,A,92.5,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_084,A,93.9,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_085,A,93.2,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_086,A,93.6,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_087,A,94.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_088,A,92.3,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_089,A,89.2,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_090,A,90.0,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_091,A,90.0,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_092,A,94.2,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_093,A,92.4,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_094,A,91.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_095,A,94.1,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_096,A,91.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_097,A,91.4,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_098,A,90.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_099,A,92.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_100,A,90.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_101,A,91.3,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_102,A,91.9,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_103,A,93.2,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_104,A,94.4,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_105,A,91.6,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_106,A,92.8,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_107,A,92.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_108,A,92.8,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_109,A,92.2,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_110,A,91.9,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_111,A,91.5,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_112,A,91.9,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_113,A,91.4,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_114,A,90.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_115,A,92.8,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_116,A,91.8,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_117,A,93.1,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_118,A,92.7,EXT_AGRONOMIST_01,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_119,A,93.3,EXT_AGRONOMIST_02,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_A_120,A,92.2,EXT_AGRONOMIST_03,"Excellent uniform crimson color, minimal surface blemishes, high circularity."
+TOM_B_001,B,67.5,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_002,B,65.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_003,B,73.1,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_004,B,73.4,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_005,B,73.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_006,B,66.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_007,B,68.8,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_008,B,69.0,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_009,B,71.3,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_010,B,71.0,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_011,B,69.8,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_012,B,70.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_013,B,73.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_014,B,70.3,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_015,B,71.6,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_016,B,73.0,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_017,B,73.5,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_018,B,72.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_019,B,75.8,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_020,B,68.2,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_021,B,68.5,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_022,B,75.0,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_023,B,67.1,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_024,B,75.3,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_025,B,67.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_026,B,69.8,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_027,B,69.1,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_028,B,69.7,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_029,B,73.1,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_030,B,70.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_031,B,69.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_032,B,75.5,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_033,B,71.6,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_034,B,71.8,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_035,B,74.9,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_036,B,73.3,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_037,B,71.7,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_038,B,71.0,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_039,B,70.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_040,B,71.8,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_041,B,73.2,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_042,B,67.5,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_043,B,69.2,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_044,B,70.0,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_045,B,70.1,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_046,B,71.8,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_047,B,71.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_048,B,74.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_049,B,74.4,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_050,B,67.0,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_051,B,69.5,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_052,B,67.0,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_053,B,68.6,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_054,B,74.6,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_055,B,66.1,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_056,B,69.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_057,B,72.0,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_058,B,68.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_059,B,68.9,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_060,B,67.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_061,B,70.5,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_062,B,68.8,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_063,B,73.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_064,B,76.1,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_065,B,71.4,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_066,B,66.5,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_067,B,71.1,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_068,B,70.6,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_069,B,72.6,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_070,B,70.5,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_071,B,72.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_072,B,68.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_073,B,73.1,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_074,B,75.3,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_075,B,69.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_076,B,73.4,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_077,B,72.9,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_078,B,71.9,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_079,B,71.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_080,B,69.9,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_081,B,68.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_082,B,69.7,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_083,B,72.4,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_084,B,66.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_085,B,73.9,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_086,B,70.9,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_087,B,73.3,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_088,B,68.0,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_089,B,66.8,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_090,B,73.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_091,B,68.2,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_092,B,71.3,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_093,B,71.5,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_094,B,68.8,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_095,B,68.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_096,B,72.7,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_097,B,67.9,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_098,B,70.4,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_099,B,67.1,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_100,B,71.4,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_101,B,73.9,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_102,B,71.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_103,B,72.3,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_104,B,74.2,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_105,B,69.7,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_106,B,72.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_107,B,74.8,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_108,B,70.0,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_109,B,71.1,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_110,B,71.1,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_111,B,72.8,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_112,B,71.6,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_113,B,71.6,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_114,B,73.2,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_115,B,73.7,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_116,B,71.0,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_117,B,69.3,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_118,B,74.2,EXT_AGRONOMIST_01,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_119,B,68.7,EXT_AGRONOMIST_02,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_B_120,B,70.1,EXT_AGRONOMIST_03,Moderate color variation or small russeting marks; commercially acceptable table grade.
+TOM_C_001,C,41.6,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_002,C,39.5,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_003,C,46.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_004,C,43.1,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_005,C,49.3,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_006,C,47.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_007,C,41.9,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_008,C,48.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_009,C,40.1,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_010,C,45.5,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_011,C,44.5,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_012,C,41.7,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_013,C,38.7,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_014,C,41.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_015,C,40.0,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_016,C,48.6,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_017,C,44.4,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_018,C,38.4,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_019,C,41.1,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_020,C,40.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_021,C,40.6,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_022,C,41.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_023,C,43.2,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_024,C,46.5,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_025,C,42.2,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_026,C,39.0,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_027,C,49.7,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_028,C,42.4,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_029,C,37.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_030,C,42.9,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_031,C,37.6,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_032,C,38.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_033,C,39.1,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_034,C,49.7,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_035,C,46.4,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_036,C,40.2,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_037,C,46.4,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_038,C,40.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_039,C,46.4,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_040,C,43.0,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_041,C,49.0,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_042,C,37.3,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_043,C,47.0,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_044,C,45.2,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_045,C,40.2,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_046,C,45.7,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_047,C,51.9,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_048,C,37.7,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_049,C,47.2,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_050,C,50.9,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_051,C,44.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_052,C,38.2,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_053,C,40.7,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_054,C,46.9,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_055,C,45.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_056,C,41.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_057,C,45.4,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_058,C,37.0,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_059,C,41.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_060,C,47.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_061,C,53.5,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_062,C,43.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_063,C,37.4,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_064,C,44.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_065,C,49.0,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_066,C,45.2,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_067,C,43.1,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_068,C,39.5,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_069,C,44.4,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_070,C,49.9,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_071,C,47.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_072,C,43.4,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_073,C,34.7,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_074,C,53.1,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_075,C,50.1,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_076,C,39.4,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_077,C,48.9,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_078,C,48.1,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_079,C,40.6,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_080,C,39.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_081,C,40.3,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_082,C,50.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_083,C,45.1,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_084,C,43.3,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_085,C,41.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_086,C,43.2,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_087,C,41.0,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_088,C,40.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_089,C,48.8,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_090,C,41.0,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_091,C,44.2,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_092,C,48.5,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_093,C,43.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_094,C,37.3,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_095,C,44.3,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_096,C,37.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_097,C,41.1,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_098,C,38.5,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_099,C,42.6,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_100,C,50.0,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_101,C,37.5,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_102,C,39.5,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_103,C,43.7,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_104,C,39.4,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_105,C,41.8,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_106,C,51.1,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_107,C,41.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_108,C,46.0,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_109,C,49.5,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_110,C,40.6,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_111,C,45.0,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_112,C,48.2,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_113,C,42.7,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_114,C,42.9,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_115,C,43.7,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_116,C,44.1,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_117,C,43.1,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_118,C,51.0,EXT_AGRONOMIST_01,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_119,C,44.2,EXT_AGRONOMIST_02,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+TOM_C_120,C,38.7,EXT_AGRONOMIST_03,"Severe defects, blossom-end rot, growth cracking or unmarketable mottled discoloration."
+EDGE_LIGHT_01,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: poor_lighting. System should reject or flag for human review.
+EDGE_LIGHT_02,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: poor_lighting. System should reject or flag for human review.
+EDGE_LIGHT_03,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: poor_lighting. System should reject or flag for human review.
+EDGE_MULTI_01,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: multiple_objects. System should reject or flag for human review.
+EDGE_MULTI_02,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: multiple_objects. System should reject or flag for human review.
+EDGE_MULTI_03,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: multiple_objects. System should reject or flag for human review.
+EDGE_BLUR_01,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: blurry_image. System should reject or flag for human review.
+EDGE_BLUR_02,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: blurry_image. System should reject or flag for human review.
+EDGE_BLUR_03,FLAG_REVIEW,0.0,CHIEF_QUALITY_OFFICER,Edge test case: blurry_image. System should reject or flag for human review.
